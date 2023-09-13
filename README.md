@@ -4,4 +4,4 @@
 - npm start
 
 
-- angular-rotating
+
